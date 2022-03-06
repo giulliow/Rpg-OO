@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\work\VS-Code\projetos\Demos\bin\Debug\net6.0\Demos.exe
+C:\Users\Administrator\Desktop\work\VS-Code\projetos\Demos\bin\Debug\net6.0\Demos.deps.json
+C:\Users\Administrator\Desktop\work\VS-Code\projetos\Demos\bin\Debug\net6.0\Demos.runtimeconfig.json
+C:\Users\Administrator\Desktop\work\VS-Code\projetos\Demos\bin\Debug\net6.0\Demos.dll
+C:\Users\Administrator\Desktop\work\VS-Code\projetos\Demos\bin\Debug\net6.0\Demos.pdb
+C:\Users\Administrator\Desktop\work\VS-Code\projetos\Demos\obj\Debug\net6.0\Demos.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\work\VS-Code\projetos\Demos\obj\Debug\net6.0\Demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\work\VS-Code\projetos\Demos\obj\Debug\net6.0\Demos.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\work\VS-Code\projetos\Demos\obj\Debug\net6.0\Demos.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\work\VS-Code\projetos\Demos\obj\Debug\net6.0\Demos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\work\VS-Code\projetos\Demos\obj\Debug\net6.0\Demos.dll
+C:\Users\Administrator\Desktop\work\VS-Code\projetos\Demos\obj\Debug\net6.0\refint\Demos.dll
+C:\Users\Administrator\Desktop\work\VS-Code\projetos\Demos\obj\Debug\net6.0\Demos.pdb
+C:\Users\Administrator\Desktop\work\VS-Code\projetos\Demos\obj\Debug\net6.0\Demos.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\work\VS-Code\projetos\Demos\obj\Debug\net6.0\ref\Demos.dll
